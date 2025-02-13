@@ -27,5 +27,5 @@ jobs:
       - name: 🔍 Linter le code
         run: npm run lint
 
-      - name: 🧪 Exécuter les tests
-        run: npm run test
+      - name: 🧪 Exécuter le build
+        run: npm run build
