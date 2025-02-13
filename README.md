@@ -2,6 +2,11 @@
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## Badges
+
+![CI Status](https://github.com/Insu-qg/OpenProject/actions/workflows/ci.yml/badge.svg)
+
+
 ## Mode de développement
 
 Lance le conteneur avec Vite en mode développement (avec hot reload):
